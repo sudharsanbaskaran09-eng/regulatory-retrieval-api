@@ -92,6 +92,7 @@ regulatory-retrieval-api
 │   └── chunks.json
 │
 ├── screenshots
+├── Architecture Diagram
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
