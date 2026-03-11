@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  regulatory-api:
+    build: .
+    container_name: regulatory_retrieval_api
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    restart: always
