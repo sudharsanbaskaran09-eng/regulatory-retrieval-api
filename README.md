@@ -91,6 +91,7 @@ regulatory-retrieval-api
 │   ├── regulation_clean.txt
 │   └── chunks.json
 │
+├── screenshots
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
