@@ -28,27 +28,6 @@ Document Processing Pipeline
 ## Project Structure
 
 ```
-regulatory-retrieval-api
-│
-├── api
-│   ├── api.py
-│   └── ask.py
-│
-├── scripts
-│   ├── extract.py
-│   ├── clean.py
-│   ├── chunk.py
-│   └── download_from_s3.py
-│
-├── data
-│   └── regulation.pdf
-│
-├── output
-│   ├── regulation.txt
-│   ├── regulation_clean.txt
-│   └── chunks.json
-│
-├── screenshots
 ├── Architecture Diagram
 ├── Dockerfile
 ├── docker-compose.yml
