@@ -1,14 +1,4 @@
-# Regulatory Retrieval API (Cloud + DevOps Project)
 
-## Overview
-The **Regulatory Retrieval API** is a cloud-based application that processes regulatory PDF documents and allows users to ask questions through a REST API.
-
-The system extracts text from documents, cleans and chunks the content, and retrieves relevant answers using a FastAPI backend.
-
-This project demonstrates **backend development, containerization, cloud deployment, CI/CD automation, and cloud storage integration**.
-
-```
-User
  ↓
 FastAPI API
  ↓
