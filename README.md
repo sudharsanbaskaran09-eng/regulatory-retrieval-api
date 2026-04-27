@@ -1,23 +1,3 @@
-
-- Automated CI/CD deployment using GitHub Actions
-- Document storage using Amazon S3
-
----
-
-## Project Structure
-
-```
-├── Architecture Diagram
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
-└── README.md
-```
-
----
-
-## Running Locally
-
 Install dependencies:
 
 ```bash
