@@ -1,25 +1,4 @@
 
- ↓
-FastAPI API
- ↓
-Docker Container
- ↓
-AWS EC2 Server
- ↓
-Document Processing Pipeline
-```
-
----
-
-## Features
-
-- Extract text from PDF documents
-- Clean and preprocess document data
-- Split documents into searchable chunks
-- Question-answer retrieval from documents
-- REST API using FastAPI
-- Docker containerization
-- Cloud deployment on AWS
 - Automated CI/CD deployment using GitHub Actions
 - Document storage using Amazon S3
 
