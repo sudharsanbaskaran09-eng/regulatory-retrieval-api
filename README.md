@@ -7,24 +7,6 @@ Docker Container
 AWS EC2 Server
  ↓
 Document Processing Pipeline
- ↓
-Amazon S3 (PDF Storage)
-```
-
-Deployment pipeline:
-
-```
-Developer
- ↓
-Git Push
- ↓
-GitHub Repository
- ↓
-GitHub Actions CI/CD
- ↓
-Auto Deploy to EC2
- ↓
-Docker Container Restart
 ```
 
 ---
