@@ -7,21 +7,6 @@ The system extracts text from documents, cleans and chunks the content, and retr
 
 This project demonstrates **backend development, containerization, cloud deployment, CI/CD automation, and cloud storage integration**.
 
----
-
-## Tech Stack
-
-- Python
-- FastAPI
-- Docker
-- AWS EC2
-- AWS S3
-- GitHub Actions (CI/CD)
-
----
-
-## Project Architecture
-
 ```
 User
  ↓
